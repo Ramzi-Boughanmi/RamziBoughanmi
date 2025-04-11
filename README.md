@@ -26,6 +26,18 @@
 ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)  
 
+---
+## 🚀 Projects
+
+**🎮 MeldoMind LMS & Games Platform**  
+- Full-stack LMS with React, Node.js, Unity WebGL games  
+- Real-time chat, article posting, parental controls  
+[GitHub Repo](#)
+
+**📊 PMO Web Platform – Sfectoria**  
+- Project management tool with React, Node.js, MongoDB  
+- Designed dashboard UI and backend services  
+[GitHub Repo](#)
 
 ---
 

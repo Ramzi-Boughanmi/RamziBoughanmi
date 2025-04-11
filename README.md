@@ -45,7 +45,7 @@ Bachelor's Degree in Computer Science (2021–2024)
 
 ## 📊 GitHub Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=RamziBoughanmi&style=flat)  
-![RamziBoughanmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamziBoughanmi&show_icons=true)  
+![RamziBoughanmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramzi-Boughanmi&show_icons=true)  
 
 ---
 

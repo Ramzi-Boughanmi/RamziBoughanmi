@@ -1,11 +1,17 @@
 # Ramzi Boughanmi  
-🌐 Full Stack Developer | React · Node.js  · Unity/WebGL
+🌐 Full Stack Developer | React · Node.js · Unity/WebGL  
 
 📧 ramziboughanmi10@gmail.com | 📱 +216 56757571 | [LinkedIn](https://linkedin.com/in/ramzi-boughanmi)  
 
 ---
 
+## 👨‍💻 About Me  
+I'm a Full Stack Developer passionate about building interactive web applications and games. With expertise in modern web technologies like React, Node.js, and Unity/WebGL, I aim to deliver innovative solutions for challenging problems.
+
+---
+
 ## 🛠 Skills  
+
 ### **Front-End**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)  
@@ -22,29 +28,31 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)  
 
-### **Tools & Platforms**  
-![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)  
+### **Other Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)  
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)  
 
 ---
-## 🚀 Projects
+
+## 🚀 Projects  
 
 **🎮 MeldoMind LMS & Games Platform**  
 - Full-stack LMS with React, Node.js, Unity WebGL games  
 - Real-time chat, article posting, parental controls  
-[GitHub Repo](#)
+- **Impact:** Helped enhance education engagement through interactive learning.  
+[GitHub Repo](https://github.com/YourRepoLink) | [Live Demo](https://demo-url)  
 
 **📊 PMO Web Platform – Sfectoria**  
 - Project management tool with React, Node.js, MongoDB  
 - Designed dashboard UI and backend services  
-[GitHub Repo](#)
+- **Impact:** Improved team productivity by 30%.  
+[GitHub Repo](https://github.com/YourRepoLink)  
 
 ---
 
 ## 🎓 Education  
 **Higher Institute of Arts and Multimedia, Manouba**  
 Bachelor's Degree in Computer Science (2021–2024)  
-
 
 ---
 
@@ -57,11 +65,17 @@ Bachelor's Degree in Computer Science (2021–2024)
 
 ## 📊 GitHub Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=RamziBoughanmi&style=flat)  
-![RamziBoughanmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramzi-Boughanmi&show_icons=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramzi-Boughanmi&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramzi-Boughanmi&layout=compact)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramzi-Boughanmi)  
 
 ---
 
-| 🧠 Skill | 📈 Progress |
-|----------|-------------|
-| 🐳 Docker | ▓▓▓▓▓░░░░░░ 50% |
-| ☁️ AWS   | ▓▓▓▓░░░░░░ 40% |
+## 🏆 Certifications  
+- Certified Unity Developer – Unity Technologies  
+- AWS Cloud Practitioner – AWS  
+
+---
+
+## 📩 Let's Connect!  
+🚀 Feel free to reach out via [LinkedIn](https://linkedin.com/in/ramzi-boughanmi) or email me at ramziboughanmi10@gmail.com.
